@@ -1,0 +1,1219 @@
+{
+  "person-01": {
+    "name": "Aanya Rao",
+    "profession": "Founder building AI agents for education",
+    "summary": "Founder building AI agents for education. Public signals point to AI, Startups, Design.",
+    "interests": [
+      "AI",
+      "Startups",
+      "Design",
+      "Open source",
+      "Education"
+    ],
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Running",
+      "Hiking",
+      "Cooking",
+      "Art"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Frequent traveller",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Ambitious",
+      "Creative",
+      "Social",
+      "Builder",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "A partner who respects a demanding, build-focused schedule",
+      "Shared curiosity about creative and intellectual pursuits",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Startups",
+      "Design",
+      "Open source"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Growth & Excellence",
+      "Creativity & Originality",
+      "Community & Connection",
+      "Craftsmanship & Impact",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Startups",
+      "Likely to connect over Design",
+      "Likely to connect over Open source"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.95
+  },
+  "person-02": {
+    "name": "Rohan Mehta",
+    "profession": "Backend engineer",
+    "summary": "Backend engineer. Public signals point to Backend, Fintech, Media & Film.",
+    "interests": [
+      "Backend",
+      "Fintech",
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Gaming",
+      "Reading",
+      "Sports",
+      "Music"
+    ],
+    "lifestyle": [
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Creative",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "Shared curiosity about creative and intellectual pursuits",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Fintech",
+      "Media & Film",
+      "Gaming"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Creativity & Originality",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Fintech",
+      "Likely to connect over Media & Film",
+      "Likely to connect over Gaming"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.95
+  },
+  "person-03": {
+    "name": "Meera Iyer",
+    "profession": "Product designer",
+    "summary": "Product designer. Public signals point to Design, Open source, Education.",
+    "interests": [
+      "Design",
+      "Open source",
+      "Education"
+    ],
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Cooking",
+      "Art"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Creative",
+      "Social",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "Shared curiosity about creative and intellectual pursuits",
+      "A vibrant shared social life and community",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "Design",
+      "Open source",
+      "Education",
+      "Travel"
+    ],
+    "values": [
+      "Creativity & Originality",
+      "Community & Connection",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Design",
+      "Likely to connect over Open source",
+      "Likely to connect over Education",
+      "Likely to connect over Travel"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.9
+  },
+  "person-04": {
+    "name": "Kabir Singh",
+    "profession": "Data scientist in analytics and machine learning",
+    "summary": "Data scientist in analytics and machine learning. Public signals point to AI, Data science, Travel.",
+    "interests": [
+      "AI",
+      "Data science"
+    ],
+    "hobbies": [
+      "Travel",
+      "Running",
+      "Sports",
+      "Fitness"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Frequent traveller",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Ambitious",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Data science",
+      "Travel",
+      "Running"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Growth & Excellence",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Data science",
+      "Likely to connect over Travel",
+      "Likely to connect over Running"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.9
+  },
+  "person-05": {
+    "name": "Isha Verma",
+    "profession": "Frontend engineer with React and web dev, open source on GitHub, curious about AI agents and design systems",
+    "summary": "Frontend engineer with React and web dev, open source on GitHub, curious about AI agents and design systems. Public signals point to AI, Backend, Web development.",
+    "interests": [
+      "AI",
+      "Backend",
+      "Web development",
+      "Design",
+      "Open source",
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Hiking",
+      "Reading",
+      "Music",
+      "Art"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Frequent traveller",
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Creative",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "Shared curiosity about creative and intellectual pursuits",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Backend",
+      "Web development",
+      "Design"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Creativity & Originality",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Backend",
+      "Likely to connect over Web development",
+      "Likely to connect over Design"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.95
+  },
+  "person-06": {
+    "name": "Dev Malhotra",
+    "profession": "Startup founder in finance and fintech",
+    "summary": "Startup founder in finance and fintech. Public signals point to Startups, Fintech, Travel.",
+    "interests": [
+      "Startups",
+      "Fintech"
+    ],
+    "hobbies": [
+      "Travel",
+      "Cooking",
+      "Sports",
+      "Fitness"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Frequent traveller",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Startups",
+      "Fintech",
+      "Travel",
+      "Cooking"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Startups",
+      "Likely to connect over Fintech",
+      "Likely to connect over Travel",
+      "Likely to connect over Cooking"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.85
+  },
+  "person-07": {
+    "name": "Priya Sharma",
+    "profession": "AI Research Scientist",
+    "summary": "AI Research Scientist. Public signals point to AI, Design, Media & Film.",
+    "interests": [
+      "AI",
+      "Design",
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Photography",
+      "Hiking",
+      "Music",
+      "Coffee"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Creative",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "Shared curiosity about creative and intellectual pursuits",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Design",
+      "Media & Film",
+      "Photography"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Creativity & Originality",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Design",
+      "Likely to connect over Media & Film",
+      "Likely to connect over Photography"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.9
+  },
+  "person-08": {
+    "name": "Siddharth Patel",
+    "profession": "Full Stack Developer",
+    "summary": "Full Stack Developer. Public signals point to Backend, Web development, Open source.",
+    "interests": [
+      "Backend",
+      "Web development",
+      "Open source"
+    ],
+    "hobbies": [
+      "Gaming",
+      "Music",
+      "Coffee"
+    ],
+    "lifestyle": [
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Web development",
+      "Open source",
+      "Gaming"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Web development",
+      "Likely to connect over Open source",
+      "Likely to connect over Gaming"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.8
+  },
+  "person-09": {
+    "name": "Ananya Sen",
+    "profession": "Climate Tech Founder & Sustainability Researcher",
+    "summary": "Climate Tech Founder & Sustainability Researcher. Public signals point to Startups, Travel, Hiking.",
+    "interests": [
+      "Startups"
+    ],
+    "hobbies": [
+      "Travel",
+      "Hiking",
+      "Cooking"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Ambitious",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "A partner who respects a demanding, build-focused schedule",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Startups",
+      "Travel",
+      "Hiking",
+      "Cooking"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Growth & Excellence",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Startups",
+      "Likely to connect over Travel",
+      "Likely to connect over Hiking",
+      "Likely to connect over Cooking"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-10": {
+    "name": "Arjun Kapoor",
+    "profession": "Venture Capital Associate & Angel Investor",
+    "summary": "Venture Capital Associate & Angel Investor. Public signals point to AI, Startups, Fintech.",
+    "interests": [
+      "AI",
+      "Startups",
+      "Fintech"
+    ],
+    "hobbies": [
+      "Running",
+      "Sports"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Startups",
+      "Fintech",
+      "Running"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Startups",
+      "Likely to connect over Fintech",
+      "Likely to connect over Running"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.8
+  },
+  "person-11": {
+    "name": "Riya Kapoor",
+    "profession": "Senior UX Architect",
+    "summary": "Senior UX Architect. Public signals point to Design, Art.",
+    "interests": [
+      "Design"
+    ],
+    "hobbies": [
+      "Art"
+    ],
+    "lifestyle": [
+      "Balanced lifestyle"
+    ],
+    "personalityTraits": [
+      "Creative"
+    ],
+    "relationshipNeeds": [
+      "Shared curiosity about creative and intellectual pursuits"
+    ],
+    "conversationTopics": [
+      "Design",
+      "Art"
+    ],
+    "values": [
+      "Creativity & Originality"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Design",
+      "Likely to connect over Art"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.55
+  },
+  "person-12": {
+    "name": "Vikramaditya Roy",
+    "profession": "Core Systems Engineer",
+    "summary": "Core Systems Engineer. Public signals point to Backend, Gaming, Reading.",
+    "interests": [
+      "Backend"
+    ],
+    "hobbies": [
+      "Gaming",
+      "Reading",
+      "Sports",
+      "Music"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Gaming",
+      "Reading",
+      "Sports"
+    ],
+    "values": [
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Gaming",
+      "Likely to connect over Reading",
+      "Likely to connect over Sports"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-13": {
+    "name": "Tanvi Agarwal",
+    "profession": "Head of Growth Marketing & Podcaster",
+    "summary": "Head of Growth Marketing & Podcaster. Public signals point to Media & Film, Travel, Cooking.",
+    "interests": [
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Travel",
+      "Cooking",
+      "Music"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Ambitious",
+      "Social"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community"
+    ],
+    "conversationTopics": [
+      "Media & Film",
+      "Travel",
+      "Cooking",
+      "Music"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Growth & Excellence",
+      "Community & Connection"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Media & Film",
+      "Likely to connect over Travel",
+      "Likely to connect over Cooking",
+      "Likely to connect over Music"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-14": {
+    "name": "Aditya Nambiar",
+    "profession": "Robotics Hardware Lead",
+    "summary": "Robotics Hardware Lead. Public signals point to Backend, Education, Robotics.",
+    "interests": [
+      "Backend",
+      "Education",
+      "Robotics"
+    ],
+    "hobbies": [
+      "Travel"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Builder",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "Mutual support for ambitious projects and hands-on creation",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Education",
+      "Robotics",
+      "Travel"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Craftsmanship & Impact",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Education",
+      "Likely to connect over Robotics",
+      "Likely to connect over Travel"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-15": {
+    "name": "Sneha Kulkarni",
+    "profession": "Neuroscience Researcher & HealthTech Advisor",
+    "summary": "Neuroscience Researcher & HealthTech Advisor. Public signals point to Education, Biotech, Hiking.",
+    "interests": [
+      "Education",
+      "Biotech"
+    ],
+    "hobbies": [
+      "Hiking",
+      "Fitness",
+      "Art"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "Education",
+      "Biotech",
+      "Hiking",
+      "Fitness"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Education",
+      "Likely to connect over Biotech",
+      "Likely to connect over Hiking",
+      "Likely to connect over Fitness"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-16": {
+    "name": "Rahul Nair",
+    "profession": "Mobile Tech Lead",
+    "summary": "Mobile Tech Lead. Public signals point to Web development, Travel, Photography.",
+    "interests": [
+      "Web development"
+    ],
+    "hobbies": [
+      "Travel",
+      "Photography",
+      "Sports",
+      "Music"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Web development",
+      "Travel",
+      "Photography",
+      "Sports"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Web development",
+      "Likely to connect over Travel",
+      "Likely to connect over Photography",
+      "Likely to connect over Sports"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-17": {
+    "name": "Kavya Bhat",
+    "profession": "Cybersecurity Engineer & Penetration Tester",
+    "summary": "Cybersecurity Engineer & Penetration Tester. Public signals point to Backend, Open source, Running.",
+    "interests": [
+      "Backend",
+      "Open source"
+    ],
+    "hobbies": [
+      "Running",
+      "Hiking",
+      "Sports"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Social",
+      "Builder",
+      "Mentor"
+    ],
+    "relationshipNeeds": [
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation",
+      "Empathy, open communication, and guiding each other"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Open source",
+      "Running",
+      "Hiking"
+    ],
+    "values": [
+      "Community & Connection",
+      "Craftsmanship & Impact",
+      "Generosity & Mentorship"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Open source",
+      "Likely to connect over Running",
+      "Likely to connect over Hiking"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.8
+  },
+  "person-18": {
+    "name": "Ishaan Deshmukh",
+    "profession": "DevRel Lead",
+    "summary": "DevRel Lead. Public signals point to Backend, Open source, Travel.",
+    "interests": [
+      "Backend",
+      "Open source"
+    ],
+    "hobbies": [
+      "Travel",
+      "Cooking"
+    ],
+    "lifestyle": [
+      "Frequent traveller",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Open source",
+      "Travel",
+      "Cooking"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Open source",
+      "Likely to connect over Travel",
+      "Likely to connect over Cooking"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-19": {
+    "name": "Pooja Reddy",
+    "profession": "EdTech Product Lead",
+    "summary": "EdTech Product Lead. Public signals point to AI, Education, Gaming.",
+    "interests": [
+      "AI",
+      "Education"
+    ],
+    "hobbies": [
+      "Gaming",
+      "Cooking",
+      "Reading"
+    ],
+    "lifestyle": [
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Ambitious",
+      "Social",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Education",
+      "Gaming",
+      "Cooking"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Growth & Excellence",
+      "Community & Connection",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Education",
+      "Likely to connect over Gaming",
+      "Likely to connect over Cooking"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.85
+  },
+  "person-20": {
+    "name": "Manav Gupta",
+    "profession": "Quantitative Analyst & Algorithmic Trader",
+    "summary": "Quantitative Analyst & Algorithmic Trader. Public signals point to AI, Data science, Fintech.",
+    "interests": [
+      "AI",
+      "Data science",
+      "Fintech"
+    ],
+    "hobbies": [
+      "Running",
+      "Gaming",
+      "Coffee",
+      "Chess"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Curious",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Someone to explore new ideas and keep learning alongside",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "AI",
+      "Data science",
+      "Fintech",
+      "Running"
+    ],
+    "values": [
+      "Continuous Learning",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over AI",
+      "Likely to connect over Data science",
+      "Likely to connect over Fintech",
+      "Likely to connect over Running"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.85
+  },
+  "person-21": {
+    "name": "Neha Saxena",
+    "profession": "Creative Director & Film Producer",
+    "summary": "Creative Director & Film Producer. Public signals point to Media & Film, Photography.",
+    "interests": [
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Photography"
+    ],
+    "lifestyle": [
+      "Balanced lifestyle"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Creative",
+      "Social"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "Shared curiosity about creative and intellectual pursuits",
+      "A vibrant shared social life and community"
+    ],
+    "conversationTopics": [
+      "Media & Film",
+      "Photography"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Creativity & Originality",
+      "Community & Connection"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Media & Film",
+      "Likely to connect over Photography"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.65
+  },
+  "person-22": {
+    "name": "Varun Banerjee",
+    "profession": "Cloud Architect & DevOps Specialist",
+    "summary": "Cloud Architect & DevOps Specialist. Public signals point to Backend, Design, Travel.",
+    "interests": [
+      "Backend",
+      "Design"
+    ],
+    "hobbies": [
+      "Travel",
+      "Music",
+      "Coffee"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Creative"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "Shared curiosity about creative and intellectual pursuits"
+    ],
+    "conversationTopics": [
+      "Backend",
+      "Design",
+      "Travel",
+      "Music"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Creativity & Originality"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Backend",
+      "Likely to connect over Design",
+      "Likely to connect over Travel",
+      "Likely to connect over Music"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.75
+  },
+  "person-23": {
+    "name": "Divya Joshi",
+    "profession": "Bioinformatics Lead & Computational Biologist",
+    "summary": "Bioinformatics Lead & Computational Biologist. Public signals point to Startups, Data science, Biotech.",
+    "interests": [
+      "Startups",
+      "Data science",
+      "Biotech",
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Sports",
+      "Art"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Always building something",
+      "Community & Social-oriented"
+    ],
+    "personalityTraits": [
+      "Ambitious",
+      "Social"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule",
+      "A vibrant shared social life and community"
+    ],
+    "conversationTopics": [
+      "Startups",
+      "Data science",
+      "Biotech",
+      "Media & Film"
+    ],
+    "values": [
+      "Growth & Excellence",
+      "Community & Connection"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Startups",
+      "Likely to connect over Data science",
+      "Likely to connect over Biotech",
+      "Likely to connect over Media & Film"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.8
+  },
+  "person-24": {
+    "name": "Tarun Mittal",
+    "profession": "E-commerce Operations Director",
+    "summary": "E-commerce Operations Director. Public signals point to Media & Film, Travel, Cooking.",
+    "interests": [
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Travel",
+      "Cooking",
+      "Sports"
+    ],
+    "lifestyle": [
+      "Active & Healthy routine",
+      "Frequent traveller"
+    ],
+    "personalityTraits": [
+      "Ambitious"
+    ],
+    "relationshipNeeds": [
+      "A partner who respects a demanding, build-focused schedule"
+    ],
+    "conversationTopics": [
+      "Media & Film",
+      "Travel",
+      "Cooking",
+      "Sports"
+    ],
+    "values": [
+      "Growth & Excellence"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Media & Film",
+      "Likely to connect over Travel",
+      "Likely to connect over Cooking",
+      "Likely to connect over Sports"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.65
+  },
+  "person-25": {
+    "name": "Shreya Ghosh",
+    "profession": "Music Tech Audio Engineer",
+    "summary": "Music Tech Audio Engineer. Public signals point to Design, Media & Film, Music.",
+    "interests": [
+      "Design",
+      "Media & Film"
+    ],
+    "hobbies": [
+      "Music",
+      "Art"
+    ],
+    "lifestyle": [
+      "Always building something"
+    ],
+    "personalityTraits": [
+      "Creative",
+      "Builder"
+    ],
+    "relationshipNeeds": [
+      "Shared curiosity about creative and intellectual pursuits",
+      "Mutual support for ambitious projects and hands-on creation"
+    ],
+    "conversationTopics": [
+      "Design",
+      "Media & Film",
+      "Music",
+      "Art"
+    ],
+    "values": [
+      "Creativity & Originality",
+      "Craftsmanship & Impact"
+    ],
+    "compatibilitySignals": [
+      "Likely to connect over Design",
+      "Likely to connect over Media & Film",
+      "Likely to connect over Music",
+      "Likely to connect over Art"
+    ],
+    "dealbreakers": [
+      "Lack of mutual respect and communication"
+    ],
+    "confidence": 0.7
+  }
+}

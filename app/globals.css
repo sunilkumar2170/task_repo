@@ -1,0 +1,42 @@
+:root{--bg:#120f1a;--ink:#f3eef8;--mute:#a9a1bb;--rose:#f07a97;--amber:#f4bb7a;--line:rgba(255,255,255,.1);--glass:rgba(255,255,255,.055)}
+*{box-sizing:border-box}html{color-scheme:dark}
+body{margin:0;background:radial-gradient(900px 500px at 15% -10%,rgba(240,122,151,.18),transparent),radial-gradient(800px 500px at 100% 0,rgba(244,187,122,.1),transparent),var(--bg);color:var(--ink);font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.55;min-height:100vh}
+a{color:inherit;text-decoration:none}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:500;letter-spacing:-.01em;line-height:1.1;margin:0}
+h1{font-size:clamp(2.6rem,7vw,5rem)}h2{font-size:1.7rem;margin-bottom:.8rem}h3{font-size:1.2rem}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+nav{display:flex;gap:18px;align-items:center;padding:18px 0;flex-wrap:wrap;color:var(--mute);font-size:.95rem}
+nav .brand{color:var(--ink);font-family:Georgia,serif;font-size:1.2rem;margin-right:auto}
+nav a:hover{color:var(--ink)}
+main{padding:24px 0 80px}
+.glass{background:var(--glass);border:1px solid var(--line);border-radius:18px;padding:20px;backdrop-filter:blur(10px)}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.btn{display:inline-block;background:linear-gradient(135deg,var(--rose),var(--amber));color:#1b1020;font-weight:600;padding:11px 20px;border-radius:999px;border:0;cursor:pointer;font-size:1rem}
+.btn:disabled{opacity:.5;cursor:wait}.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.btn:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible,a:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+.chip{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:3px 11px;font-size:.85rem;color:var(--ink);background:rgba(255,255,255,.04);margin:0 6px 6px 0}
+.chip.rose{border-color:rgba(240,122,151,.5)}
+.mute{color:var(--mute)}.small{font-size:.9rem}
+.avatar{border-radius:50%;display:grid;place-items:center;font-family:Georgia,serif;color:#1b1020;font-weight:600;flex:none}
+.badge{font-size:.8rem;border-radius:999px;padding:2px 10px;background:rgba(244,187,122,.18);color:var(--amber)}
+.hero{padding:56px 0 36px}.hero p{max-width:620px;font-size:1.15rem;color:var(--mute);margin:18px 0 26px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin-top:34px}
+.stat b{display:block;font-family:Georgia,serif;font-size:2rem;font-weight:500}
+select,input,textarea{width:100%;background:rgba(255,255,255,.06);border:1px solid var(--line);color:var(--ink);padding:11px 13px;border-radius:12px;font:inherit}
+select option{color:#111}
+label{display:block;margin:12px 0 6px;color:var(--mute);font-size:.9rem}
+table{width:100%;border-collapse:collapse}td,th{text-align:left;padding:12px 8px;border-bottom:1px solid var(--line);vertical-align:top}th{color:var(--mute);font-weight:400;font-size:.9rem}
+.arena{display:grid;gap:12px;margin:22px 0}
+.bubble{max-width:82%;padding:13px 16px;border-radius:18px;border:1px solid var(--line)}
+.bubble.A{background:rgba(240,122,151,.14);border-top-left-radius:4px}
+.bubble.B{background:rgba(244,187,122,.12);border-top-right-radius:4px;margin-left:auto}
+.who{font-size:.8rem;color:var(--mute);margin-bottom:3px}
+.dots span{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--mute);margin-right:4px;animation:b 1s infinite}.dots span:nth-child(2){animation-delay:.15s}.dots span:nth-child(3){animation-delay:.3s}
+@keyframes b{50%{transform:translateY(-4px);opacity:.4}}
+.score{font-family:Georgia,serif;font-size:4rem;line-height:1}
+.meter{height:8px;border-radius:9px;background:rgba(255,255,255,.1);overflow:hidden}.meter i{display:block;height:100%;background:linear-gradient(90deg,var(--rose),var(--amber))}
+.two{display:grid;gap:16px;grid-template-columns:1fr 1fr}
+.err{color:#ff9b9b}.ok{color:#9be3b0}
+@media(max-width:700px){.two{grid-template-columns:1fr}.bubble{max-width:94%}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}

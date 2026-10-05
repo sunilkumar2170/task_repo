@@ -1,0 +1,277 @@
+[
+  {
+    "id": "person-01",
+    "name": "Aanya Rao",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/aanya-rao/",
+    "instagramUrl": "https://www.instagram.com/aanya.rao/",
+    "demoSourceData": {
+      "linkedin": "Aanya Rao - Founder building AI agents for education. Curious about machine learning, startups and design. Mentor to students and open source contributor.",
+      "instagram": "Aanya Rao. Trail runs, travel, photography and cooking with friends. Community events and early morning hikes."
+    }
+  },
+  {
+    "id": "person-02",
+    "name": "Rohan Mehta",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/rohan-mehta/",
+    "instagramUrl": "https://www.instagram.com/rohan.mehta/",
+    "demoSourceData": {
+      "linkedin": "Rohan Mehta - Backend engineer. Built APIs with Node.js and databases, shipped fintech products. Loves learning new systems.",
+      "instagram": "Rohan Mehta. Cricket on weekends, gaming nights with friends, music and reading."
+    }
+  },
+  {
+    "id": "person-03",
+    "name": "Meera Iyer",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/meera-iyer/",
+    "instagramUrl": "https://www.instagram.com/meera.iyer/",
+    "demoSourceData": {
+      "linkedin": "Meera Iyer - Product designer. UX and Figma, creative problem solving, teaches design workshops and mentors juniors.",
+      "instagram": "Meera Iyer. Art, photography, travel and writing. Cooking together and community events."
+    }
+  },
+  {
+    "id": "person-04",
+    "name": "Kabir Singh",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/kabir-singh/",
+    "instagramUrl": "https://www.instagram.com/kabir.singh/",
+    "demoSourceData": {
+      "linkedin": "Kabir Singh - Data scientist in analytics and machine learning. Ambitious, building models that scale, hiring for the team.",
+      "instagram": "Kabir Singh. Gym and fitness, running, football with friends, travel."
+    }
+  },
+  {
+    "id": "person-05",
+    "name": "Isha Verma",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/isha-verma/",
+    "instagramUrl": "https://www.instagram.com/isha.verma/",
+    "demoSourceData": {
+      "linkedin": "Isha Verma - Frontend engineer with React and web dev, open source on GitHub, curious about AI agents and design systems.",
+      "instagram": "Isha Verma. Reading, writing, music and hiking. Photography on weekend trips."
+    }
+  },
+  {
+    "id": "person-06",
+    "name": "Dev Malhotra",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/dev-malhotra/",
+    "instagramUrl": "https://www.instagram.com/dev.malhotra/",
+    "demoSourceData": {
+      "linkedin": "Dev Malhotra - Startup founder in finance and fintech. Ambitious builder, launched two products, loves scaling teams.",
+      "instagram": "Dev Malhotra. Travel, cooking, fitness and cricket. Social dinners with friends."
+    }
+  },
+  {
+    "id": "person-07",
+    "name": "Priya Sharma",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/priya-sharma/",
+    "instagramUrl": "https://www.instagram.com/priya.sharma/",
+    "demoSourceData": {
+      "linkedin": "Priya Sharma - AI Research Scientist. Published papers on multi-agent collaboration, LLMs and neural architectures. Speaker at tech conferences.",
+      "instagram": "Priya Sharma. Coffee enthusiast, landscape photography, hiking in mountains and classical music."
+    }
+  },
+  {
+    "id": "person-08",
+    "name": "Siddharth Patel",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/siddharth-patel/",
+    "instagramUrl": "https://www.instagram.com/siddharth.patel/",
+    "demoSourceData": {
+      "linkedin": "Siddharth Patel - Full Stack Developer. Open source maintainer, building scalable web systems with TypeScript, GraphQL and Next.js.",
+      "instagram": "Siddharth Patel. Gaming nights, indie rock concerts, weekend cycling and specialty coffee brewing."
+    }
+  },
+  {
+    "id": "person-09",
+    "name": "Ananya Sen",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/ananya-sen/",
+    "instagramUrl": "https://www.instagram.com/ananya.sen/",
+    "demoSourceData": {
+      "linkedin": "Ananya Sen - Climate Tech Founder & Sustainability Researcher. Building carbon offset tracking platforms. Featured in EcoTech 30 Under 30.",
+      "instagram": "Ananya Sen. Gardening, zero-waste lifestyle, scuba diving, organic cooking and nature journaling."
+    }
+  },
+  {
+    "id": "person-10",
+    "name": "Arjun Kapoor",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/arjun-kapoor/",
+    "instagramUrl": "https://www.instagram.com/arjun.kapoor/",
+    "demoSourceData": {
+      "linkedin": "Arjun Kapoor - Venture Capital Associate & Angel Investor. Investing in seed-stage AI startups and developer tooling. Ex-tech founder.",
+      "instagram": "Arjun Kapoor. Tennis, marathon runner, wine tasting, fine dining and startup meetups."
+    }
+  },
+  {
+    "id": "person-11",
+    "name": "Riya Kapoor",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/riya-kapoor/",
+    "instagramUrl": "https://www.instagram.com/riya.kapoor/",
+    "demoSourceData": {
+      "linkedin": "Riya Kapoor - Senior UX Architect. Crafting human-centered digital experiences for global consumer brands. Passionate about design ethics.",
+      "instagram": "Riya Kapoor. Pottery workshops, minimalist interior design, museum visits and pottery arts."
+    }
+  },
+  {
+    "id": "person-12",
+    "name": "Vikramaditya Roy",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/vikramaditya-roy/",
+    "instagramUrl": "https://www.instagram.com/vikramaditya.roy/",
+    "demoSourceData": {
+      "linkedin": "Vikramaditya Roy - Core Systems Engineer. Building high-performance distributed engines in Rust and C++. Systems safety and low latency advocate.",
+      "instagram": "Vikramaditya Roy. Bouldering, sci-fi novels, board games with friends, and vinyl records collection."
+    }
+  },
+  {
+    "id": "person-13",
+    "name": "Tanvi Agarwal",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/tanvi-agarwal/",
+    "instagramUrl": "https://www.instagram.com/tanvi.agarwal/",
+    "demoSourceData": {
+      "linkedin": "Tanvi Agarwal - Head of Growth Marketing & Podcaster. Scaled SaaS companies from 0 to 1M users. Host of the Tech Growth Chronicles podcast.",
+      "instagram": "Tanvi Agarwal. Travel blogging, salsa dancing, podcast recording behind-the-scenes, food exploring."
+    }
+  },
+  {
+    "id": "person-14",
+    "name": "Aditya Nambiar",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/aditya-nambiar/",
+    "instagramUrl": "https://www.instagram.com/aditya.nambiar/",
+    "demoSourceData": {
+      "linkedin": "Aditya Nambiar - Robotics Hardware Lead. Engineering autonomous drone systems and embedded perception algorithms. IEEE robotics mentor.",
+      "instagram": "Aditya Nambiar. FPV drone racing, DIY electronics projects, astronomy and stargazing trips."
+    }
+  },
+  {
+    "id": "person-15",
+    "name": "Sneha Kulkarni",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/sneha-kulkarni/",
+    "instagramUrl": "https://www.instagram.com/sneha.kulkarni/",
+    "demoSourceData": {
+      "linkedin": "Sneha Kulkarni - Neuroscience Researcher & HealthTech Advisor. Exploring brain-computer interfaces and cognitive wellness applications.",
+      "instagram": "Sneha Kulkarni. Yoga teacher, mindfulness practitioner, tea tasting, sketching and nature walks."
+    }
+  },
+  {
+    "id": "person-16",
+    "name": "Rahul Nair",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/rahul-nair/",
+    "instagramUrl": "https://www.instagram.com/rahul.nair/",
+    "demoSourceData": {
+      "linkedin": "Rahul Nair - Mobile Tech Lead. Engineering cross-platform mobile apps using React Native and Swift. Focused on smooth UI animations and performance.",
+      "instagram": "Rahul Nair. Street photography, badminton leagues, acoustic guitar, road trips."
+    }
+  },
+  {
+    "id": "person-17",
+    "name": "Kavya Bhat",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/kavya-bhat/",
+    "instagramUrl": "https://www.instagram.com/kavya.bhat/",
+    "demoSourceData": {
+      "linkedin": "Kavya Bhat - Cybersecurity Engineer & Penetration Tester. Securing cloud infrastructure and zero-trust systems. Speaker at DEF CON community events.",
+      "instagram": "Kavya Bhat. CTF competition highlights, martial arts training, thriller movie marathons and dog walking."
+    }
+  },
+  {
+    "id": "person-18",
+    "name": "Ishaan Deshmukh",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/ishaan-deshmukh/",
+    "instagramUrl": "https://www.instagram.com/ishaan.deshmukh/",
+    "demoSourceData": {
+      "linkedin": "Ishaan Deshmukh - DevRel Lead. Connecting developer communities with cutting-edge API tools. Organizer of global tech hackathons.",
+      "instagram": "Ishaan Deshmukh. Community meetups, street food crawls, indie rock festivals, travel vlogging."
+    }
+  },
+  {
+    "id": "person-19",
+    "name": "Pooja Reddy",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/pooja-reddy/",
+    "instagramUrl": "https://www.instagram.com/pooja-reddy/",
+    "demoSourceData": {
+      "linkedin": "Pooja Reddy - EdTech Product Lead. Building interactive learning experiences and AI tutoring platforms for K-12 and STEM education.",
+      "instagram": "Pooja Reddy. Book club meetups, baking sourdough, botanical gardens and puzzle solving."
+    }
+  },
+  {
+    "id": "person-20",
+    "name": "Manav Gupta",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/manav-gupta/",
+    "instagramUrl": "https://www.instagram.com/manav.gupta/",
+    "demoSourceData": {
+      "linkedin": "Manav Gupta - Quantitative Analyst & Algorithmic Trader. Building statistical arbitrage models and machine learning risk predictors.",
+      "instagram": "Manav Gupta. Chess tournaments, marathon training, espresso tasting, strategy board games."
+    }
+  },
+  {
+    "id": "person-21",
+    "name": "Neha Saxena",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/neha-saxena/",
+    "instagramUrl": "https://www.instagram.com/neha.saxena/",
+    "demoSourceData": {
+      "linkedin": "Neha Saxena - Creative Director & Film Producer. Directing digital documentaries on tech innovation and social impact stories.",
+      "instagram": "Neha Saxena. Film festival behind-the-scenes, analog photography, vintage fashion, cinema history."
+    }
+  },
+  {
+    "id": "person-22",
+    "name": "Varun Banerjee",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/varun-banerjee/",
+    "instagramUrl": "https://www.instagram.com/varun.banerjee/",
+    "demoSourceData": {
+      "linkedin": "Varun Banerjee - Cloud Architect & DevOps Specialist. Scaling Kubernetes clusters, Terraform infrastructure, and automated CI/CD pipelines.",
+      "instagram": "Varun Banerjee. Camping in the wild, wood crafting, vinyl record listening, craft beer brewing."
+    }
+  },
+  {
+    "id": "person-23",
+    "name": "Divya Joshi",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/divya-joshi/",
+    "instagramUrl": "https://www.instagram.com/divya.joshi/",
+    "demoSourceData": {
+      "linkedin": "Divya Joshi - Bioinformatics Lead & Computational Biologist. Analyzing genomic data pipelines for personalized medicine startups.",
+      "instagram": "Divya Joshi. Rock climbing, watercolor painting, science podcasts, flower arrangements."
+    }
+  },
+  {
+    "id": "person-24",
+    "name": "Tarun Mittal",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/tarun-mittal/",
+    "instagramUrl": "https://www.instagram.com/tarun.mittal/",
+    "demoSourceData": {
+      "linkedin": "Tarun Mittal - E-commerce Operations Director. Optimizing global supply chain logistics, warehouse automation, and last-mile delivery.",
+      "instagram": "Tarun Mittal. Motorcycle road trips, BBQ grilling, football matches, weekend family gatherings."
+    }
+  },
+  {
+    "id": "person-25",
+    "name": "Shreya Ghosh",
+    "sample": false,
+    "linkedinUrl": "https://www.linkedin.com/in/shreya-ghosh/",
+    "instagramUrl": "https://www.instagram.com/shreya.ghosh/",
+    "demoSourceData": {
+      "linkedin": "Shreya Ghosh - Music Tech Audio Engineer. Developing spatial audio software and digital signal processing for modern music software.",
+      "instagram": "Shreya Ghosh. Synthesizer jamming, live DJ sets, vinyl hunting, sound design experiments."
+    }
+  }
+]
